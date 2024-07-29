@@ -5,11 +5,11 @@ Recognizing the value of this data, they aim to transform it into actionable ins
 
 The report will present a high-level business summary tailored for C-suite executives, and also give insights into their highest value customers segmented by sales region, provide a detailed analysis of top-performing products categorised by type against their sales targets, and a visually appealing map visual that spotlights the performance metrics of their retail outlets across different territories.
 
-## Data Modelling; 
+## Data Modelling: 
 Star Schemea was used as the structure for the data analysis as it was the most efficient model for the data
 ![image](https://github.com/user-attachments/assets/3922f7cc-dc22-4769-89e2-50d581782c9b)
 
-## Report
+## Report:
 ### Customer Detail:
 ![Cust Detail](https://github.com/user-attachments/assets/5e327a4b-7861-4063-86c4-796835e21d3f)
 
@@ -19,10 +19,9 @@ Star Schemea was used as the structure for the data analysis as it was the most 
 ### Product Detail:
 ![image](https://github.com/user-attachments/assets/7154b4f7-e095-4f46-b5b6-fc4ce4581a7e)
 
-## Usage
-
+## Usage:
 Clone the repository to your local machine.
 Open the Power BI files in Power BI Desktop.
 
-## License
+## License:
 This project is licensed under the MIT License - see the LICENSE.md file for details.
