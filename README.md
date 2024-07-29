@@ -19,5 +19,10 @@ Star Schemea was used as the structure for the data analysis as it was the most 
 ### Product Detail:
 ![image](https://github.com/user-attachments/assets/7154b4f7-e095-4f46-b5b6-fc4ce4581a7e)
 
+## Usage
+
+Clone the repository to your local machine.
+Open the Power BI files in Power BI Desktop.
+
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
